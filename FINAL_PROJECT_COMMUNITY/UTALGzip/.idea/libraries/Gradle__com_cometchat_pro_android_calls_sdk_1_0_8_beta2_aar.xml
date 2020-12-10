@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.cometchat:pro-android-calls-sdk:1.0.8-beta2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5ddfcd5a33eb9510f1db47461f317db/jetified-pro-android-calls-sdk-1.0.8-beta2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5ddfcd5a33eb9510f1db47461f317db/jetified-pro-android-calls-sdk-1.0.8-beta2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5ddfcd5a33eb9510f1db47461f317db/jetified-pro-android-calls-sdk-1.0.8-beta2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5ddfcd5a33eb9510f1db47461f317db/jetified-pro-android-calls-sdk-1.0.8-beta2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cometchat/pro-android-calls-sdk/1.0.8-beta2/c5e12a8f0e884aa6d2b64f3ba7c80ea2d063fb6b/pro-android-calls-sdk-1.0.8-beta2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
